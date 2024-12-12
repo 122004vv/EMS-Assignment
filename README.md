@@ -1,2 +1,8 @@
-# EMS-Project  
-This is a simple and Basic Employee Management System created using React Js , Node Js , Express Js and MySQL Database for the purpose of displaying the Employee details once they have been added.
+# Learn CRUD Ops - [A SIMPLE EMPLOYEE Sys] 
+- This is a simple and Basic Employee Management System created for the purpose of displaying the Employee details once they have been added , using
+  --React Js
+  --Node Js
+  --Express Js
+  --MySQL Database 
+- Used for the purpose of an assignment in Uni.
+- Uses a local SQL DB for Creating , Reading , Updating and Deleting Data from the DB using provided APIs!
